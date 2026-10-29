@@ -1,0 +1,4 @@
+def ar_pvn(cena, likme=21):
+    ar_pvn = cena*0.21 + cena
+print(ar_pvn(100))
+print(ar_pvn(100, 12))
