@@ -1,0 +1,4 @@
+n = 20
+g = 3
+print("nauda pietiks tik griezieniem:", n//g)
+print("nauda kas paliks pāri:", n%g)
